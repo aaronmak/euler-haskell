@@ -1,3 +1,3 @@
 # euler-haskell
 
-Solutions for [Project Euler](https://projecteuler.net) with haskell
+Worked solutions for [Project Euler](https://projecteuler.net) with Haskell
